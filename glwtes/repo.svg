@@ -25,9 +25,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
      showgrid="false"
-     inkscape:zoom="1.258125"
-     inkscape:cx="48.882265"
-     inkscape:cy="119.62245"
+     inkscape:zoom="1.7792574"
+     inkscape:cx="64.914721"
+     inkscape:cy="71.659108"
      inkscape:window-width="1916"
      inkscape:window-height="1036"
      inkscape:window-x="0"
@@ -56,9 +56,16 @@
        type="text/css"
        id="style5861">*{stroke-linejoin: round; stroke-linecap: butt}</style>
   </defs>
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0.5"
+     id="rect6503"
+     width="275"
+     height="125"
+     x="-7.327472e-15"
+     y="-6.2172489e-15" />
   <g
      id="axes_1"
-     transform="matrix(1.3682137,0,0,1.3682137,0.6786287,-16.241028)"
+     transform="matrix(1.3682137,0,0,1.3682137,0.67862898,-16.241028)"
      style="stroke-width:0.73088">
     <g
        id="line2d_1"
